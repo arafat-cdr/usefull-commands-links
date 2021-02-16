@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=TKLPDbSqOPY
 ****************************************************
 **php server command userfull terminal command**
 
-#useful server command 
+# useful server command 
 
  php -v
  sudo a2dismod php7.0.*
